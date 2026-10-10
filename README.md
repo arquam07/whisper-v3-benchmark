@@ -140,7 +140,3 @@ assets/                       Charts
 ## Data
 
 The recordings are private and are not in this repository, and neither are the transcripts. File names in `results/` are replaced with `meeting_A`, `meeting_B` and `meeting_C`. All measurements are unchanged.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
