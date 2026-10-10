@@ -1,0 +1,5 @@
+requests
+rapidfuzz      # optional: transcript similarity column
+pandas         # analysis/analyze.py
+numpy
+matplotlib     # analysis/analyze.py

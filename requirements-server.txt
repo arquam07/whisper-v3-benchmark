@@ -1,0 +1,8 @@
+# Install the torch build that matches your CUDA version first: https://pytorch.org/get-started/locally/
+torch
+transformers
+fastapi
+uvicorn
+python-multipart
+av
+numpy
